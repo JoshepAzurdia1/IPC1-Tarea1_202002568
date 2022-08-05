@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Joshep Marcelo Azurdia González 202002568 <br> Pagina web </br>
+</title>
+</head>
+<body>
+<div> 
+<h4> Joshep Marcelo Azurdia Gonzalez <br> 202002568 </br>  </h4>
+<h1> <center> Cursos del Segundo Semestre de 2022 </center> </h1>
+<table>
+	<tr>
+	  <th scope="col"><strong>CURSO</strong></th>
+	  <th scope="col"><strong>SEMESTRE QUE PERTENECE</strong></th>
+	  <th scope="col"><strong>INFORMACION</strong></th>
+	</tr>
+	<tr>
+	  <td> <center> Matematica intermedia 2 </center> </td>
+	  <td> <center> 4 </center> </td>
+	  <td>Este curso trata de operar funciones vectoriales y curvas; tambien trabajar con integrales multiples.</td>
+	</tr>
+	<tr>
+	  <td> <center> Matematica intermedia 3 </center> </td>
+	  <td> <center> 4 </center> </td>
+	  <td>El objetivo del curso es que podamos realizar ecuaciones difererenciales con diferentes metodos y tecnicas tanto las lineales como las de orden superior.</td>
+	</tr>
+	<tr>
+	  <td> <center> IPC </center> </td>
+	  <td> <center> 3 </center> </td>
+	  <td>Este curso es la base de la programacion orientada a objetos, asi tambien la realizacion de algoritmos que ayuda al estudiante para resolver problemas.</td>
+	</tr>
+	<tr>
+	  <td> <center> Mate computo </center> </td>
+	  <td> <center> 3 </center> </td>
+	  <td>EL objetivo del curso es que podamos emplear metodos de conteo y tecnicas matematicas aplicadas en el ambito de la computacion.</td>
+	</tr>
+	<tr>
+	  <td> <center> Fisica 1 </center> </td>
+	  <td> <center> 3 </center> </td>
+	  <td>Es un refuerzo de lo ya visto en el anterior curso, fisica basica, en el cual se extienden los temas tales como movimiento rotacional, asi como equilibrio de cuerpos.</td>
+	</tr>
+	<tr>
+	  <td> <center> Logica de sistemas </center> </td>
+	  <td> <center> 3 </center> </td>
+	  <td>Este curso se enfoca en ejercitar y desarrollar la comprension del pensamiento, tambien nuestra creatividad.</td>
+	</tr>
+</table>
+</div>
+ </body>
+
+</html>
